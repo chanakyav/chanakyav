@@ -9,15 +9,19 @@ I studied Electrical Engineering at San Jose State University. I focused on desi
 ## Places I've worked at 
 
 ### 💰 Vanguard
-As an Application Engineer I, I worked within an Agile team to build user experiences for new onboarding clients and help move monolithic web services to the cloud as well as building new REST APIs. The backend services were built using Java and Spring/Jersey, while the frontend is built in Angular and NestJS. The developer workflows include sprint planning, retrospectives, writing high quality code with unit, integration, & end to end tests, code reviews, performance testing and working with CI/CD to push code to production. Some of the tools used day to day include Jira, BitBucket, Bamboo, Postman, Cypress (End to end testing framework), Splunk, AWS DynamoDB, ECS, Cloudwatch, etc. 
+- As an **Application Engineer I**, I worked within an Agile team to build user experiences for new onboarding clients and help move monolithic web services to the cloud as well as building new REST APIs. 
+- The backend services were built using Java and Spring/Jersey, while the frontend is built in Angular and NestJS. The developer workflows include sprint planning, retrospectives, writing high quality code with unit, integration, & end to end tests, code reviews, performance testing and working with CI/CD to push code to production. 
+- Some of the tools used day to day include Jira, BitBucket, Bamboo, Postman, Cypress (End to end testing framework), Splunk, AWS DynamoDB, ECS, Cloudwatch, etc. 
 
 ### ☎️ Genesys
-As a backend Software Engineer, I worked within Genesys Cloud services which offers Contact Center as a service (CCaaS). I worked in a team that handles integration of 3rd party apps such as Microsoft Teams, Zoom, RingCentral, etc. within the Genesys Cloud app. This involves utilization of event driven architecture and serverless applications that expose public APIs which are ultimately used by CCaaS customers to build their own applications. Tech stack includes Node.js with Typescript, Java, Serverless framework, Kafka, AWS Lambda, DynamoDB, SQS, SNS, Kinesis, etc. 
+- As a backend **Software Engineer**, I worked within Genesys Cloud services which offers Contact Center as a service (CCaaS). I worked in a team that handles integration of 3rd party apps such as Microsoft Teams, Zoom, RingCentral, etc. within the Genesys Cloud app.
+- Design and development of event driven architectures and serverless applications that expose public APIs which are ultimately used by CCaaS customers to build their own applications.
+- Tech stack includes Node.js with Typescript, Java, Serverless framework, Kafka, AWS Lambda, DynamoDB, SQS, SNS, Kinesis, etc. 
 
 ## Currently working at 
 
-### 😎 GitHub
-Working on improving Dependabot Alerts:
+### 🥳 GitHub
+Working on improving Dependabot Alerts as a **Software Engineer II**:
 - [Dependabot alerts now surface if your code is calling a vulnerability](https://github.blog/2022-04-14-dependabot-alerts-now-surface-if-code-is-calling-vulnerability/)
 
 ## More things about me
