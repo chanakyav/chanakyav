@@ -4,7 +4,7 @@ Hi 👋 My name is Chanakya Valluri
 Software Engineer / Full-Stack Web Developer
 --------------------------------------------
 
-I studied Electrical Engineering at San Jose State University. I focused on designing circuits and embedded systems during which I was exposed to building programs using C/C++. I also taught myself Python 🐍 which helped me to work as a Data Analytics intern at EPRI for 1.5 years. Wanting to move into the tech industry, I attended App Academy's Full Stack Software Engineering program where I learned to design and build web applications from the ground up using Ruby on Rails, Node.js, Express, React, PostgreSQL and MongoDB. 
+I studied Electrical Engineering at San Jose State University. I focused on designing circuits and embedded systems during which I was exposed to building programs using C/C++. I also taught myself Python 🐍 which helped me to work as a Data Analytics intern at [EPRI](https://www.epri.com/) for 1.5 years. Wanting to move into the tech industry, I attended App Academy's Full Stack Software Engineering program where I learned to design and build web applications from the ground up using Ruby on Rails, Node.js, Express, React, PostgreSQL and MongoDB. 
 
 ## Places I've worked at 
 
