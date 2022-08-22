@@ -25,6 +25,7 @@ Working on improving Dependabot Alerts as a **Software Engineer II**:
 - [Dependabot alerts now surface if your code is calling a vulnerability](https://github.blog/2022-04-14-dependabot-alerts-now-surface-if-code-is-calling-vulnerability/)
 - [Dependabot alerts show all affected files for vulnerable function calls (Python Beta)](https://github.blog/changelog/2022-05-16-dependabot-alerts-show-all-affected-files-for-vulnerable-function-calls-python-beta/)
 - [Dependabot alerts: timeline of events on the alert details page](https://github.blog/changelog/2022-07-28-dependabot-alerts-timeline-of-events-on-the-alert-details-page/)
+- [Dependabot alerts: optional dismissal comment](https://github.blog/changelog/2022-08-22-dependabot-alerts-optional-dismissal-comment-2/)
 
 ## More things about me
 🌍  I'm based in North Carolina, USA
