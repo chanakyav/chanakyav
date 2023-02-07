@@ -28,6 +28,7 @@ Working on improving Dependabot Alerts as a **Software Engineer II**:
 - [Dependabot alerts: optional dismissal comment](https://github.blog/changelog/2022-08-22-dependabot-alerts-optional-dismissal-comment-2/)
 - [Dependabot alerts REST API](https://github.blog/changelog/2022-09-22-dependabot-alerts-rest-api-is-now-available-in-public-beta/)
 - [Dependabot alerts Organizational level REST API](https://github.blog/changelog/2022-10-18-dependabot-alerts-organizational-level-rest-api/)
+- [Dependabot alerts default permissions change](https://github.blog/changelog/2023-02-07-dependabot-alerts-default-permissions-change/)
 
 ## More things about me
 🌍  I'm based in North Carolina, USA
